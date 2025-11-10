@@ -1,4 +1,5 @@
 #include <iostream>
+//Added new comment for new commit 
 using namespace std;
 bool PrimeNumber(int number) {
     if (number <= 1) {
